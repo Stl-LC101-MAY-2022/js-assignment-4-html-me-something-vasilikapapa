@@ -21,4 +21,24 @@ body {
     margin-left: 2em;
     margin-right: 2em;
   }
- 
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  a:hover, a:active {
+    color: green;
+    
+    
+  }
+ a.projects:hover
+  {
+    font-size: 20px;
+  }
+  a.education:hover
+  {
+    text-decoration-line:underline;
+  }
+  #mainHeading
+  {
+    background-color: red;
+  }
