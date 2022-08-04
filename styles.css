@@ -35,14 +35,11 @@ body {
   {
     color: red;
   }
-  #testp
-  {
-    display: block;
-    color: green;
-  }
+  
   .funParagraph
   {
     color: green;
+    display: block;
   }
   img
   {
