@@ -74,9 +74,5 @@ describe ("Grading Tests: ", function () {
       expect(window.getComputedStyle(headingElement).color).toEqual("red");
    })
 
-   it("HTML includes HTML entities", function() {
-      // Regex pattern: /(&.+;)/ig
-      const regex = /(&.+;)/ig;
-      expect(html.search(regex)).not.toEqual(-1);
-   })
+   
 });
