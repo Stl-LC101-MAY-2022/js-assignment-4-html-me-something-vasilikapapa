@@ -16,7 +16,7 @@ body {
   p {
     font-size: 20px;
   }
-  .tems {
+  .items {
     margin-bottom: 1em;
     margin-left: 2em;
     margin-right: 2em;
@@ -30,10 +30,7 @@ body {
     
     
   }
- a.projects:hover
-  {
-    font-size: 20px;
-  }
+
   a.education:hover
   {
     text-decoration-line:underline;
