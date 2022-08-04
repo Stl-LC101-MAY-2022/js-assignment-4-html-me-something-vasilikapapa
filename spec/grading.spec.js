@@ -73,10 +73,10 @@ describe ("Grading Tests: ", function () {
       let headingElement = container.getElementById("mainHeading");
       expect(window.getComputedStyle(headingElement).color).toEqual("red");
    })
-
    it("HTML includes HTML entities", function() {
-      // Regex pattern: /(&.+;)/ig
+     
       const regex = /(&.+;)/ig;
       expect(html.search(regex)).not.toEqual(-1);
    })
+   
 });
