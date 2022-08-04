@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(195, 224, 224);
+
     margin: 8px;
     display: block;
   }
@@ -22,10 +22,10 @@ body {
     margin-right: 2em;
   }
   a{
-    text-decoration: none;
+    text-decoration:solid;
 
   }
-  
+
 
   a.education:hover
   {
