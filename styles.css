@@ -38,8 +38,9 @@ body {
   
   .funParagraph
   {
-   background-color: green;
-    display: block;
+    color:green;
+    margin: auto;
+    padding: 25px;
   }
   img
   {
